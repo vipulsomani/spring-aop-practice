@@ -1,0 +1,11 @@
+/.metadata/
+.settings/
+.classpath
+.project
+build/
+**/lib
+lib/
+hibernate-tutorial/
+spring-demo-aop/
+spring-mvc-demo/
+web-employee-tracker/
